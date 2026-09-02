@@ -1,337 +1,186 @@
 <div align="center">
 
-# ✦ Profiles & Links ✦
+# 🔗 Profiles & Links
 
-### Harshita
-**ML Researcher · AI Security · Deep Learning**
-
-<sub>My digital footprint across research, technology & cybersecurity</sub>
+<sub>Explore my digital footprint across research, technology & cybersecurity</sub>
 
 <br><br>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                    DIGITAL IDENTITY                        -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td align="right" width="34%" valign="middle">
+<!-- LEFT : PROFESSIONAL -->
 
-### 💼 PROFESSIONAL
+<td width="30%" align="right" valign="middle">
+
+<h3>💼 Professional</h3>
 
 <a href="https://www.linkedin.com/in/harshita-ba61032a5">
-🔵 LinkedIn
+🔵 <b>LinkedIn</b>
 </a>
 
-<br>
+<br>⋮<br>
 
 <a href="https://github.com/harshita1362">
-⚫ GitHub
+⚫ <b>GitHub</b>
 </a>
 
-<br>
+<br>⋮<br>
 
 <a href="https://orcid.org/">
-🟢 ORCID
+🟢 <b>ORCID</b>
 </a>
 
-<br>
+<br>⋮<br>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-📩 Email
+📧 <b>Email</b>
 </a>
 
 </td>
 
-<td align="center" width="32%" rowspan="2">
+<td width="7%" align="center">
+<strong>╲<br>╲<br>╲</strong>
+</td>
+
+
+<!-- CENTER -->
+
+<td width="26%" align="center" valign="middle">
 
 <img src="./assets/harshita-profile.png"
-     width="210"
+     width="190"
      alt="Harshita">
-
-<br>
-
-### ◉ HARSHITA
-
-<sub>RESEARCH • BUILD • SECURE</sub>
 
 <br><br>
 
-`ML` · `AI` · `Cybersecurity`
+# **HARSHITA**
+
+<b>ML Researcher</b><br>
+AI Security · Deep Learning
+
+<br>
+
+<code>RESEARCH</code>
+<code>BUILD</code>
+<code>SECURE</code>
 
 </td>
 
-<td align="left" width="34%" valign="middle">
 
-### 🔬 RESEARCH & ML
+<td width="7%" align="center">
+<strong>╱<br>╱<br>╱</strong>
+</td>
+
+
+<!-- RIGHT : RESEARCH -->
+
+<td width="30%" align="left" valign="middle">
+
+<h3>🔬 Research & ML</h3>
 
 <a href="https://scholar.google.com/">
-🔵 Google Scholar
+🔵 <b>Google Scholar</b>
 </a>
 
-<br>
+<br>⋮<br>
 
 <a href="https://www.kaggle.com/harshita1362">
-🔷 Kaggle
+🔷 <b>Kaggle</b>
 </a>
 
-<br>
+<br>⋮<br>
 
 <a href="https://huggingface.co/harshita1362">
-🟡 Hugging Face
+🟡 <b>Hugging Face</b>
 </a>
 
-<br>
+<br>⋮<br>
 
 <a href="https://www.researchgate.net/">
-🟢 ResearchGate
+🟢 <b>ResearchGate</b>
 </a>
 
 </td>
 
 </tr>
+
+
+<!-- SECOND ORBIT -->
 
 <tr>
 
 <td align="right" valign="middle">
 
-### 🛡️ CYBERSECURITY
+<h3>🛡️ Cybersecurity</h3>
 
 <a href="https://tryhackme.com/p/harshita1362">
-🔴 TryHackMe
+🔴 <b>TryHackMe</b>
 </a>
 
 <br>
 
 <a href="https://profile.hackthebox.com/profile/01a05e6c-f49a-7027-b7e6-7b622e7b2520">
-🟢 Hack The Box
+🟢 <b>Hack The Box</b>
 </a>
 
 <br>
 
 <a href="https://portswigger.net/web-security/">
-🟠 PortSwigger
-</a>
-
-</td>
-
-<td align="left" valign="middle">
-
-### ⚡ CODING
-
-<a href="https://leetcode.com/">
-🟠 LeetCode
-</a>
-
-<br>
-
-<a href="https://www.geeksforgeeks.org/">
-🟢 GeeksforGeeks
-</a>
-
-<br>
-
-<a href="https://www.hackerrank.com/">
-🟢 HackerRank
-</a>
-
-<br>
-
-<a href="https://www.codechef.com/">
-🟤 CodeChef
-</a>
-
-<br>
-
-<a href="https://codeforces.com/">
-🔵 Codeforces
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== WRITING NODE ===================== -->
-
-### ✍️ WRITING & IDEAS
-
-<a href="https://medium.com/@harshita1362">
-<strong>Medium</strong>
-</a>
-
-<br>
-
-<sub>Research · Technical Writing · Ideas</sub>
-
-<br><br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br><br>
-
-### 🚀
-
-**Always Learning · Always Building · Always Exploring**
-
-<br>
-
-<sub>
-Passionate about solving real-world problems through
-<strong>Machine Learning, Deep Learning & Cybersecurity.</strong>
-</sub>
-
-</div>
-<td width="30%" align="center" valign="middle">
-
-### 🛡️ CYBERSECURITY
-
-<br>
-
-<a href="https://tryhackme.com/p/harshita1362">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://profile.hackthebox.com/profile/01a05e6c-f49a-7027-b7e6-7b622e7b2520">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black">
-</a>
-
-<br><br>
-
-<a href="https://portswigger.net/web-security/">
-<img src="https://img.shields.io/badge/PortSwigger-Web%20Security-FF6633?style=flat-square&logo=portswigger&logoColor=white">
-</a>
-
-</td>
-
-
-<!-- ================= RIGHT BOTTOM : CODING ================= -->
-
-<td width="30%" align="center" valign="middle">
-
-### ⚡ CODING
-
-<br>
-
-<a href="https://leetcode.com/harshita1362/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black">
-</a>
-
-<br><br>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://www.hackerrank.com/harshita1362">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black">
-</a>
-
-<br><br>
-
-<a href="https://www.codechef.com/users/harshita1362">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://codeforces.com/profile/harshita1362">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<!-- ================= WRITING ================= -->
-
-### ✍️ WRITING & CONTENT
-
-<a href="https://medium.com/@harshita1362">
-<img src="https://img.shields.io/badge/Medium-Technical%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-
-<br><br>
-
-<i>Research · Ideas · Technical Writing</i>
-
-<br><br><br>
-
----
-
-### 🚀 Always Learning · Always Building · Always Exploring
-
-<i>
-Passionate about solving real-world problems through
-<b>Machine Learning, Deep Learning & Cybersecurity.</b>
-</i>
-
-</div></a>
-
-</td>
-
-</tr>
-
-<!-- ================= CODING + WRITING ================= -->
-
-<tr>
-
-<td colspan="2" align="center">
-
-<h3>⚡ CODING & PROBLEM SOLVING</h3>
-
-<a href="https://leetcode.com/harshita1362/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.hackerrank.com/harshita1362">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<br><br>
-
-<a href="https://www.codechef.com/users/harshita1362">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://codeforces.com/profile/harshita1362">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+🟠 <b>PortSwigger</b>
 </a>
 
 </td>
 
 <td align="center">
+<strong>╲<br>╲</strong>
+</td>
 
-<h3>✍️ WRITING</h3>
+<td align="center">
+<sub>✦</sub>
+</td>
 
-<a href="https://medium.com/@harshita1362">
-<img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<td align="center">
+<strong>╱<br>╱</strong>
+</td>
+
+<td align="left" valign="middle">
+
+<h3>⚡ Coding</h3>
+
+<a href="https://leetcode.com/harshita1362/">
+🟠 <b>LeetCode</b>
+</a>
+
+&nbsp; · &nbsp;
+
+<a href="https://www.geeksforgeeks.org/">
+🟢 <b>GeeksforGeeks</b>
 </a>
 
 <br><br>
 
-<i>Research · Ideas · Technical Writing</i>
+<a href="https://www.hackerrank.com/harshita1362">
+🟢 <b>HackerRank</b>
+</a>
+
+&nbsp; · &nbsp;
+
+<a href="https://www.hackerearth.com/@harshita1362">
+🔵 <b>HackerEarth</b>
+</a>
+
+<br><br>
+
+<a href="https://www.codechef.com/users/harshita1362">
+🟤 <b>CodeChef</b>
+</a>
+
+&nbsp; · &nbsp;
+
+<a href="https://codeforces.com/profile/harshita1362">
+🔵 <b>Codeforces</b>
+</a>
 
 </td>
 
@@ -341,25 +190,31 @@ Passionate about solving real-world problems through
 
 <br>
 
-<!-- ================= CONNECT ================= -->
+<!-- WRITING -->
 
-<h3>📬 Let's Connect</h3>
+<h3>✍️ Writing & Ideas</h3>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://medium.com/@harshita1362">
+<strong>Medium</strong>
 </a>
+
+&nbsp;&nbsp;·&nbsp;&nbsp;
+
+<sub>Research · Technical Writing · Ideas</sub>
+
+<br><br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <br><br>
 
-<i>
+<b>🚀 Always Learning · Always Building · Always Exploring</b>
+
+<br><br>
+
+<sub>
 Passionate about solving real-world problems through
 <b>Machine Learning, Deep Learning & Cybersecurity.</b>
-</i>
-
-<br>
-
-<i>
-🚀 Always learning · Always building · Always exploring
-</i>
+</sub>
 
 </div>
