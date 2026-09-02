@@ -26,5 +26,6 @@
 > Highlights of my academic, research, technical, and professional journey.
 
 **1. 🎓 GATE Qualification** — GATE 2022 *(AIR: 3XXX)* · GATE 2024 *(AIR: 5XXX)*
+
 **2. 📚 Research Publications** — **3 research papers presented at international conferences** *(SoftPros 2025 · ICST 2026 · ICIC3S 2026)*
 
