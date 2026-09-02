@@ -23,11 +23,9 @@
 
 ## 🏆 ACHIEVEMENTS
 
-> Key milestones and achievements that reflect my academic and technical journey.
+> Academic milestones and accomplishments.
 
-### 1️⃣ GATE Qualified
+### 1. 🎓 GATE Qualification
 
-| Examination | Year | All India Rank |
-|---|---:|---:|
-| GATE | 2022 | **3XXX** |
-| GATE | 2024 | **5XXX** |
+- **GATE 2022** *(AIR: 3XXX)*
+- **GATE 2024** *(AIR: 5XXX)*
