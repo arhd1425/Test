@@ -35,7 +35,7 @@
 
 **1. Assessing the Impact of FGSM Adversarial Attack on Convolutional Neural Networks in X-ray Images**  
 *13th International Conference on Soft Computing for Problem Solving (SocProS 2025) — IIT Roorkee*  
-**Presented at the conference.**
+**Presented and published.**
 
 **2. An Empirical Study of Deep Learning Models for Multi-Class Ransomware Classification**  
 *International Conference on Intelligent Computing and Sustainable Technologies (ICST 2026) — IIT Patna*  
