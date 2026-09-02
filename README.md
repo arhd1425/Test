@@ -1,113 +1,67 @@
+## ✦ Profiles & Links
+
 <div align="center">
 
-# 🔗 Profiles & Links
+### 👩‍💻 Harshita
+**ML Researcher · AI Security · Deep Learning**
 
-<sub>Explore my digital footprint across research, technology & cybersecurity</sub>
+</div>
 
-<br><br>
+```mermaid
+flowchart TB
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
+    R["🔬 RESEARCH & ML<br/><br/>
+    🎓 Google Scholar<br/>
+    📊 Kaggle<br/>
+    🤗 Hugging Face<br/>
+    📚 ResearchGate"]
 
-<!-- LEFT : PROFESSIONAL -->
+    P["💼 PROFESSIONAL<br/><br/>
+    💼 LinkedIn<br/>
+    🐙 GitHub<br/>
+    🆔 ORCID<br/>
+    📧 Email"]
 
-<td width="30%" align="right" valign="middle">
+    C["🛡️ CYBERSECURITY<br/><br/>
+    🎯 TryHackMe<br/>
+    🟩 Hack The Box<br/>
+    ⚡ PortSwigger"]
 
-<h3>💼 Professional</h3>
+    H(("👩‍💻<br/>HARSHITA<br/><br/>ML RESEARCHER<br/>AI SECURITY<br/>DEEP LEARNING"))
 
-<a href="https://www.linkedin.com/in/harshita-ba61032a5">
-🔵 <b>LinkedIn</b>
-</a>
+    D["⚡ CODING & PROBLEM SOLVING<br/><br/>
+    🟠 LeetCode<br/>
+    🟢 GeeksforGeeks<br/>
+    🟢 HackerRank<br/>
+    🌐 HackerEarth<br/>
+    🟤 CodeChef<br/>
+    🔵 Codeforces"]
 
-<br>⋮<br>
-
-<a href="https://github.com/harshita1362">
-⚫ <b>GitHub</b>
-</a>
-
-<br>⋮<br>
-
-<a href="https://orcid.org/">
-🟢 <b>ORCID</b>
-</a>
-
-<br>⋮<br>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-📧 <b>Email</b>
-</a>
-
-</td>
-
-<td width="7%" align="center">
-<strong>╲<br>╲<br>╲</strong>
-</td>
+    W["✍️ WRITING & CONTENT<br/><br/>
+    Medium<br/><br/>
+    Research · Ideas · Technical Writing"]
 
 
-<!-- CENTER -->
-
-<td width="26%" align="center" valign="middle">
-
-<img src="./assets/harshita-profile.png"
-     width="190"
-     alt="Harshita">
-
-<br><br>
-
-# **HARSHITA**
-
-<b>ML Researcher</b><br>
-AI Security · Deep Learning
-
-<br>
-
-<code>RESEARCH</code>
-<code>BUILD</code>
-<code>SECURE</code>
-
-</td>
+    P --- H
+    R --- H
+    H --- C
+    H --- D
+    D --- W
 
 
-<td width="7%" align="center">
-<strong>╱<br>╱<br>╱</strong>
-</td>
+    click P "https://www.linkedin.com/in/harshita-ba61032a5"
+    click R "https://www.kaggle.com/harshita1362"
+    click C "https://portswigger.net/web-security/"
+    click D "https://github.com/harshita1362"
+    click W "https://medium.com/@harshita1362"
 
 
-<!-- RIGHT : RESEARCH -->
-
-<td width="30%" align="left" valign="middle">
-
-<h3>🔬 Research & ML</h3>
-
-<a href="https://scholar.google.com/">
-🔵 <b>Google Scholar</b>
-</a>
-
-<br>⋮<br>
-
-<a href="https://www.kaggle.com/harshita1362">
-🔷 <b>Kaggle</b>
-</a>
-
-<br>⋮<br>
-
-<a href="https://huggingface.co/harshita1362">
-🟡 <b>Hugging Face</b>
-</a>
-
-<br>⋮<br>
-
-<a href="https://www.researchgate.net/">
-🟢 <b>ResearchGate</b>
-</a>
-
-</td>
-
-</tr>
-
-
-<!-- SECOND ORBIT -->
-
+    style H fill:#111827,stroke:#8b5cf6,stroke-width:4px,color:#ffffff
+    style R fill:#071a12,stroke:#22c55e,stroke-width:2px,color:#ffffff
+    style P fill:#160d24,stroke:#a855f7,stroke-width:2px,color:#ffffff
+    style C fill:#200b18,stroke:#ec4899,stroke-width:2px,color:#ffffff
+    style D fill:#211707,stroke:#f59e0b,stroke-width:2px,color:#ffffff
+    style W fill:#071827,stroke:#38bdf8,stroke-width:2px,color:#ffffff
 <tr>
 
 <td align="right" valign="middle">
