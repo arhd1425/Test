@@ -1,112 +1,190 @@
 <div align="center">
 
-# 🔗 Profiles & Links
+# ✦ Profiles & Links ✦
 
-### 👩‍💻 Harshita
+### Harshita
 **ML Researcher · AI Security · Deep Learning**
 
-<br>
+<sub>My digital footprint across research, technology & cybersecurity</sub>
+
+<br><br>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    DIGITAL IDENTITY                        -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <table>
 <tr>
 
-<!-- ================= LEFT TOP : PROFESSIONAL ================= -->
-
-<td width="30%" align="center" valign="middle">
+<td align="right" width="34%" valign="middle">
 
 ### 💼 PROFESSIONAL
 
-<br>
-
 <a href="https://www.linkedin.com/in/harshita-ba61032a5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+🔵 LinkedIn
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/harshita1362">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=flat-square&logo=github&logoColor=white">
+⚫ GitHub
 </a>
 
-<br><br>
+<br>
 
 <a href="https://orcid.org/">
-<img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=flat-square&logo=orcid&logoColor=white">
+🟢 ORCID
 </a>
 
-<br><br>
+<br>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+📩 Email
 </a>
 
 </td>
 
+<td align="center" width="32%" rowspan="2">
 
-<!-- ================= CENTER : IMAGE ================= -->
-
-<td width="40%" rowspan="2" align="center" valign="middle">
+<img src="./assets/harshita-profile.png"
+     width="210"
+     alt="Harshita">
 
 <br>
 
-<img src="./assets/harshita-profile.png"
-     width="260"
-     alt="Harshita">
+### ◉ HARSHITA
+
+<sub>RESEARCH • BUILD • SECURE</sub>
 
 <br><br>
 
-### **HARSHITA**
-
-`ML Researcher`  
-`AI Security`  
-`Deep Learning`
-
-<br>
-
-**Research • Build • Secure**
+`ML` · `AI` · `Cybersecurity`
 
 </td>
 
-
-<!-- ================= RIGHT TOP : RESEARCH ================= -->
-
-<td width="30%" align="center" valign="middle">
+<td align="left" width="34%" valign="middle">
 
 ### 🔬 RESEARCH & ML
 
+<a href="https://scholar.google.com/">
+🔵 Google Scholar
+</a>
+
 <br>
 
-<a href="https://scholar.google.com/">
-<img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white">
-</a>
-
-<br><br>
-
 <a href="https://www.kaggle.com/harshita1362">
-<img src="https://img.shields.io/badge/Kaggle-ML%20%26%20Data-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
+🔷 Kaggle
 </a>
 
-<br><br>
+<br>
 
 <a href="https://huggingface.co/harshita1362">
-<img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+🟡 Hugging Face
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.researchgate.net/">
-<img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=flat-square&logo=researchgate&logoColor=white">
+🟢 ResearchGate
 </a>
 
 </td>
 
 </tr>
 
-
 <tr>
 
-<!-- ================= LEFT BOTTOM : CYBERSECURITY ================= -->
+<td align="right" valign="middle">
 
+### 🛡️ CYBERSECURITY
+
+<a href="https://tryhackme.com/p/harshita1362">
+🔴 TryHackMe
+</a>
+
+<br>
+
+<a href="https://profile.hackthebox.com/profile/01a05e6c-f49a-7027-b7e6-7b622e7b2520">
+🟢 Hack The Box
+</a>
+
+<br>
+
+<a href="https://portswigger.net/web-security/">
+🟠 PortSwigger
+</a>
+
+</td>
+
+<td align="left" valign="middle">
+
+### ⚡ CODING
+
+<a href="https://leetcode.com/">
+🟠 LeetCode
+</a>
+
+<br>
+
+<a href="https://www.geeksforgeeks.org/">
+🟢 GeeksforGeeks
+</a>
+
+<br>
+
+<a href="https://www.hackerrank.com/">
+🟢 HackerRank
+</a>
+
+<br>
+
+<a href="https://www.codechef.com/">
+🟤 CodeChef
+</a>
+
+<br>
+
+<a href="https://codeforces.com/">
+🔵 Codeforces
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== WRITING NODE ===================== -->
+
+### ✍️ WRITING & IDEAS
+
+<a href="https://medium.com/@harshita1362">
+<strong>Medium</strong>
+</a>
+
+<br>
+
+<sub>Research · Technical Writing · Ideas</sub>
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
+### 🚀
+
+**Always Learning · Always Building · Always Exploring**
+
+<br>
+
+<sub>
+Passionate about solving real-world problems through
+<strong>Machine Learning, Deep Learning & Cybersecurity.</strong>
+</sub>
+
+</div>
 <td width="30%" align="center" valign="middle">
 
 ### 🛡️ CYBERSECURITY
