@@ -20,3 +20,14 @@
 | 4.5 | Coding & Problem Solving | CodeChef | https://www.codechef.com/users/harshita1362 |
 | 4.6 | Coding & Problem Solving | Codeforces | https://codeforces.com/profile/harshita1362 |
 | 5.1 | Writing & Content | Medium | https://medium.com/@harshita1362 |
+
+## 🏆 ACHIEVEMENTS
+
+> Key milestones and achievements that reflect my academic and technical journey.
+
+### 1️⃣ GATE Qualified
+
+| Examination | Year | All India Rank |
+|---|---:|---:|
+| GATE | 2022 | **3XXX** |
+| GATE | 2024 | **5XXX** |
