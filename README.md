@@ -23,8 +23,7 @@
 
 ## 🏆 ACHIEVEMENTS
 
-> Academic milestones and accomplishments.
+> Highlights of my academic, research, technical, and professional journey.
 
-### 1. 🎓 GATE Qualification
+**1. 🎓 GATE Qualification** — GATE 2022 *(AIR: 3XXX)* · GATE 2024 *(AIR: 5XXX)*
 
-**GATE 2022** *(AIR: 3XXX)* · **GATE 2024** *(AIR: 5XXX)*
