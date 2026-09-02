@@ -27,5 +27,4 @@
 
 ### 1. 🎓 GATE Qualification
 
-- **GATE 2022** *(AIR: 3XXX)*
-- **GATE 2024** *(AIR: 5XXX)*
+**GATE 2022** *(AIR: 3XXX)* · **GATE 2024** *(AIR: 5XXX)*
