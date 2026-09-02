@@ -1,104 +1,77 @@
-# Hi, I'm Harshita Dang 👋
+🌐 Profiles & Links
 
-### Machine Learning Researcher | AI Security | Cybersecurity
+<div align="center">👩‍💻 Harshita
 
-M.Tech in Cybersecurity from **NIT Kurukshetra**.
+ML Researcher | AI Security | Deep Learning
 
-I am interested in applying Machine Learning and Deep Learning to
-real-world cybersecurity problems.
+<br><table>
+<tr>
+<td align="center" width="30%">💼 Professional
 
-## Research Interests
+<a href="https://www.linkedin.com/in/harshita-ba61032a5">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><br><br>
 
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
-- Cybersecurity
-- Malware & Ransomware Analysis
-- Computer Vision
-- Explainable AI
-- Nature-Inspired Optimization
-- AI Security
+<a href="https://github.com/harshita1362">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a><br><br>
 
-## Current Research
+<a href="https://orcid.org/">
+<img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+</a></td><td align="center" width="40%">🔬 RESEARCH & ML
 
-- Ransomware Family Classification
-- Nature-Inspired Feature Selection
-- Deepfake Detection
-- AI for Cybersecurity
-- Explainable AI
+<a href="https://scholar.google.com/">
+<img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
+</a><br><br>
 
-## Technical Skills
+<a href="https://www.kaggle.com/harshita1362">
+<img src="https://img.shields.io/badge/Kaggle-ML%20%26%20Data-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+</a><br><br>
 
-**Programming:**  
-Python, C++, SQL
+<a href="https://huggingface.co/harshita1362">
+<img src="https://img.shields.io/badge/Hugging%20Face-AI%20%26%20Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+</a><br><br>
 
-**Machine Learning:**  
-Scikit-learn, XGBoost, LightGBM, Random Forest, Extra Trees
+<a href="https://www.researchgate.net/">
+<img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
+</a></td><td align="center" width="30%">🔐 Cybersecurity
 
-**Deep Learning:**  
-PyTorch, TensorFlow, Keras, CNN, DNN, Transformers, Vision Transformers
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-Cybersecurity-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a><br><br>
 
-**Tools & Technologies:**  
-Git, GitHub, Linux, OpenCV, Pandas, NumPy, Power BI, Google Colab, Tkinter
+<a href="https://profile.hackthebox.com/profile/01a05e6c-f49a-7027-b7e6-7b622e7b2520">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+</a><br><br>
 
-## Experience
+<a href="https://portswigger.net/web-security/">
+<img src="https://img.shields.io/badge/PortSwigger-Web%20Security-FF6633?style=for-the-badge&logo=portswigger&logoColor=white">
+</a></td>
+</tr><tr>
+<td align="center" colspan="2">💻 Coding & Problem Solving
 
-### HSBC — Technology / Automation Intern
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a> 
 
-- Developed Python automation solutions for Excel-based workflows.
-- Developed 22+ automation scripts using Python, Pandas, xlwings and openpyxl.
-- Built 6 Power BI dashboards for testing and reporting.
-- Worked on SIT/UAT, defect tracking and production activities.
-- Developed solutions related to EUC governance and security controls.
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</a> 
 
-## Projects
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
+</a> 
 
-### Multi-Class Ransomware Classification
-Machine Learning framework for ransomware family classification using
-Nature-Inspired Algorithms, feature selection, ensemble models and SHAP.
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+</a></td><td align="center">✍️ Writing
 
-### EUC Security Analyzer
-Python/Tkinter-based tool for analyzing EUC governance and security controls.
+<a href="https://medium.com/@harshita1362">
+<img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white">
+</a></td>
+</tr>
+</table><br>📬 Let's Connect
 
-### DLock
-Python/Tkinter utility for handling protected Excel workbooks and generating
-unprotected copies.
-
-### Parking Space Counter
-Computer Vision project for detecting and counting available parking spaces
-using OpenCV.
-
-## Publications
-
-- SoftPros 2025
-- ICST 2026
-- ICICCS 2026
-
-## Profiles
-
-### Professional
-
-- [LinkedIn](https://www.linkedin.com/in/harshita-ba61032a5)
-- [GitHub](https://github.com/harshita1362)
-
-### Coding
-
-- [LeetCode](https://leetcode.com/harshita1362/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/harshita1362)
-- [CodeChef](https://www.codechef.com/users/harshita1362)
-- [Codeforces](https://codeforces.com/profile/harshita1362)
-- [HackerRank](https://www.hackerrank.com/harshita1362)
-- [HackerEarth](https://www.hackerearth.com/@harshita1362)
-
-### Cybersecurity
-
-- [TryHackMe](https://tryhackme.com/p/harshita1362)
-
-### Research
-
-- [Google Scholar](https://scholar.google.com/citations?user=qmYBkDYAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Harshita-Dang)
-
----
-
-**Interested in Machine Learning, AI Security and Cybersecurity Research.**
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a></div>
