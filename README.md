@@ -29,3 +29,18 @@
 
 **2. 📚 Research Publications** — **3 research papers presented at international conferences** *(SoftPros 2025 · ICST 2026 · ICIC3S 2026)*
 
+## 📚 PUBLICATIONS
+
+> 3 International Conference Publications
+
+**1. An Empirical Study of Deep Learning Models for Multi-Class Ransomware Classification**  
+*International Conference on Intelligent Computing and Sustainable Technologies (ICST 2026) — IIT Patna*  
+Accepted for presentation and publication in **Springer Lecture Notes in Networks and Systems (LNNS)**, Scopus-indexed.
+
+**2. Assessing the Impact of FGSM Adversarial Attack on Convolutional Neural Networks in X-ray Images**  
+*13th International Conference on Soft Computing for Problem Solving (SocProS 2025) — IIT Roorkee*  
+**Presented at the conference.**
+
+**3. A Comparative Study on Multi-Class Ransomware Classification Using Predictive Models**  
+*International Conference on Intelligent Computing, Communication, Control and Security (ICIC3S 2026) — IIIT Una*  
+**Presented at the conference** and to be published in the **IEEE Xplore Digital Library**.
